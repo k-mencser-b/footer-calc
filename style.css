@@ -1,9 +1,9 @@
 .content {
-    min-height: calc(100vh - 50px);
+    min-height: calc(100vh - 55px);
   }
   
   .footer {
-    height: 50px;
+    height: 55px;
   }
   /*==== HELPER STYLES ====*/
   
